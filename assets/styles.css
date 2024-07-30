@@ -11,7 +11,7 @@
 }
 
 .header_banner {
-    background: url('/img/background-img\ 3.jpg')no-repeat center center /cover;
+    background: url('https://yasirch2.github.io/horse-mart/img/background-img\ 3.jpg')no-repeat center center /cover;
     position: relative;
     min-height: 600px;
     top: 0;
@@ -223,7 +223,7 @@
 
 .class-equine {
 
-    background-image: url('/img/background.jpg');
+    background-image: url('https://yasirch2.github.io/horse-mart/img/background.jpg');
     width: 100%;
     height: 100%;
 }
@@ -275,7 +275,7 @@ path {
 }
 
 .third-section {
-    background: url('/img/home-image-1.jpg') no-repeat center top/cover;
+    background: url('https://yasirch2.github.io/horse-mart/img/home-image-1.jpg') no-repeat center top/cover;
     background-size: auto;
     display: flex;
     align-items: center;
@@ -364,7 +364,7 @@ span#second-dot {
 /* forth-section */
 
 .home-page {
-    background-image: url('/img/background.jpg');
+    background-image: url('https://yasirch2.github.io/horse-mart/img/background.jpg');
     height: 100%;
     width: 100%;
     min-height: 745px;
@@ -529,7 +529,7 @@ span#second-dot {
         ' item4 item5 item6 item6';
     grid-gap: 10px;
     margin-top: 10px;
-    /* background-image: url(/img/h1-gallery-img-1.jpg); */
+    /* background-image: url(https://yasirch2.github.io/horse-mart/img/h1-gallery-img-1.jpg); */
 
 }
 
@@ -543,7 +543,7 @@ span#second-dot {
 
 /* section */
 .wrapper-team {
-    background-image: url('/img/background.jpg');
+    background-image: url('https://yasirch2.github.io/horse-mart/img/background.jpg');
     margin-top: 6px;
     margin-bottom: 6px;
     width: 100%;
@@ -639,7 +639,7 @@ span#second-dot {
 /* section*/
 
 .contant-wrapper {
-    background-image: url('/img/h1-parallax-2.jpg');
+    background-image: url('https://yasirch2.github.io/horse-mart/img/h1-parallax-2.jpg');
     height: 100%;
     width: 100%;
     min-height: 300px;
@@ -734,7 +734,7 @@ span#second-dot {
 /* eigth-section */
 
 .grid-wrapper-section {
-    background-image: url('/img/background.jpg');
+    background-image: url('https://yasirch2.github.io/horse-mart/img/background.jpg');
     min-height: 936px;
 }
 
@@ -775,7 +775,7 @@ span#second-dot {
 }
 
 #pt-tittle-holder-1 {
-    background-image: url('/img/pricing-top-img-1.jpg');
+    background-image: url('https://yasirch2.github.io/horse-mart/img/pricing-top-img-1.jpg');
     width: 345px;
     font-family: "Lora", serif;
     background-repeat: no-repeat;
@@ -798,7 +798,7 @@ span#second-dot {
 
 
 #pt-tittle-holder-2 {
-    background-image: url('/img/pricing-top-img-2.jpg');
+    background-image: url('https://yasirch2.github.io/horse-mart/img/pricing-top-img-2.jpg');
     width: 345px;
     font-family: "Lora", serif;
     background-repeat: no-repeat;
@@ -819,7 +819,7 @@ span#second-dot {
 }
 
 #pt-tittle-holder-3 {
-    background-image: url('/img/pricing-top-img-3.jpg');
+    background-image: url('https://yasirch2.github.io/horse-mart/img/pricing-top-img-3.jpg');
     width: 345px;
     font-family: "Lora", serif;
     background-repeat: no-repeat;
@@ -937,7 +937,7 @@ button:hover {
 
 
 .video-button-holder {
-    background: url(/img/video-button-backround.jpg) no-repeat center center/cover;
+    background: url(https://yasirch2.github.io/horse-mart/img/video-button-backround.jpg) no-repeat center center/cover;
     width: 100%;
     height: 550px;
     display: flex;
@@ -954,7 +954,7 @@ button:hover {
 /* section */
 
 .wrapper-section {
-    background-image: url('/img/background.jpg');
+    background-image: url('https://yasirch2.github.io/horse-mart/img/background.jpg');
     min-height: 746.156px;
 }
 
@@ -1084,7 +1084,7 @@ button:hover {
 
 
 .owl-stage-outer {
-    background-image: url('/img/carousel-backround.jpg');
+    background-image: url('https://yasirch2.github.io/horse-mart/img/carousel-backround.jpg');
 }
 
 .owl-stage {
