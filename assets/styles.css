@@ -479,7 +479,10 @@ span#second-dot {
 
 /* fifth-section */
 
-
+.img-lightbox img{
+    width:100%
+    heigth:100%
+}
 #item1 {
     grid-area: item1;
     width: 100%;
